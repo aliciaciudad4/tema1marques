@@ -22,5 +22,5 @@ Si accedim a l'enllaç anterior el nostre navegador descarregarà el text pla qu
 ## Codificació del document READ.ME
 Per codificar aquest document hem empleat les marques vistes a [Markdowntutorial](https://www.markdowntutorial.com)
 
-[](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
