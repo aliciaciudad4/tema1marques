@@ -20,7 +20,7 @@ https://cdn.rawgit.com/aliciaciudad4/tema1marques/079cbe6c/prova%20html%20.html
 Si accedim a l'enllaç anterior el nostre navegador descarregarà el text pla que compon el nostre fitxer interpretarà les marques pròpies de html per tant podrem visualitzar un títol.
 
 ## Codificació del document READ.ME
-Per codificar aquest document hem empleat les marques vistes a Markdowntutorial(https://www.markdowntutorial.com)
+Per codificar aquest document hem empleat les marques vistes a [Markdowntutorial](https://www.markdowntutorial.com)
 
 [](http://octodex.github.com/images/octdrey-catburn.jpg)
 
